@@ -36,8 +36,8 @@
 			
 		},
     "SITE": {
-			"description": "Full link of your Heroku App without the /",
-      "value": "https://APPNAME.herokuapp.com"
+			"description": "Full link of your Heroku App with the /",
+      "value": "https://APPNAME.herokuapp.com/"
 			
 		},
      "TOKEN": {
