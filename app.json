@@ -1,7 +1,7 @@
 {
-  "name": "Heroku-Tor-Bot-test",
+  "name": "Heroku-CyberTOR",
   "description": "Like A Boss UehToR",
-  "repository": "https://github.com/shakilofficial0/Heroku-Tor-Bot",
+  "repository": "https://github.com/shakilofficial0/Heroku-CyberTOR",
   "keywords": ["node", "express", "bot", "torrent", "automation"],
   "env": {
 		"AUTH_CODE": {
