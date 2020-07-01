@@ -27,7 +27,7 @@
 		},
 		"PIRATEBAY_SITE": {
 			"description": "Just Dont Change it",
-			"value": "https://limetorrents.at/search?search={term}",
+			"value": "https://thepiratebay.org/search/{term}",
 			"required": false
 		},
 		"SEARCH_SITE": {
