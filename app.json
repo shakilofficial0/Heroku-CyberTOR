@@ -1,0 +1,53 @@
+{
+  "name": "Heroku-Tor-Bot-test",
+  "description": "Like A Boss UehToR",
+  "repository": "https://github.com/shakilofficial0/Heroku-Tor-Bot",
+  "keywords": ["node", "express", "bot", "torrent", "automation"],
+  "env": {
+		"AUTH_CODE": {
+			"description": "Drive Auth Code is needed to access in Drive. Need To Generate. go to \"http://torrent-aio-bot.herokuapp.com/drivehelp\" for Generate.",
+      			"value": "Something like 4/1QHtT6m6DunqA_Dc_K2zSzkYft3Va8wEpxEg7Xig61fY-fBcTPxbhXA/"
+		},
+		"CLIENT_ID": {
+			"description": "Drive Auth Code is needed to access in Drive. Need To Generate. go to \"https://developers.google.com/drive/api/v3/quickstart/nodejs\" for Generate.",
+			"value": "Something like 209800747726-77hnjivdrifpcp0f7e1d08eqtobp7sl5.apps.googleusercontent.com"
+		},
+		"CLIENT_SECRET": {
+			"description": "Drive Auth Code is needed to access in Drive. Need To Generate. go to \"https://developers.google.com/drive/api/v3/quickstart/nodejs\" for Generate.",
+			"value": "Something like 7Tvz8hPufx-O7XHK583j8Gtm"
+		},
+		"GDRIVE_PARENT_FOLDER": {
+			"description": "Folder Id of Google.Read Readme.md to know more.",
+			"value": "Something like 7Tvz8hPufx-O7XHK583j8Gtm"
+		},
+		"LIMETORRENT_SITE": {
+			"description": "Just Dont Change it",
+			"value": "https://limetorrents.at/search?search={term}",
+      "required": false
+		},
+		"PIRATEBAY_SITE": {
+			"description": "Just Dont Change it",
+			"value": "https://limetorrents.at/search?search={term}",
+			"required": false
+		},
+		"SEARCH_SITE": {
+			"description": "Full link of your Heroku App with the final /",
+      "value": "https://APPNAME.herokuapp.com/"
+			
+		},
+    "SITE": {
+			"description": "Full link of your Heroku App without the /",
+      "value": "https://APPNAME.herokuapp.com"
+			
+		},
+     "TOKEN": {
+			"description": "Drive Auth Code is needed to access in Drive. Need To Generate. go to \"http://torrent-aio-bot.herokuapp.com/drivehelp\" for Generate",
+      "value": "Something like {\"access_toke\":\"ya29.a****************\"}"
+			
+		}
+	},
+  "builpacks": [
+    { "url": "heroku/nodejs" },
+    { "url": "jontewks/puppeteer" }
+  ]
+}
