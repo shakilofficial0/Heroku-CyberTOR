@@ -24,7 +24,7 @@ If You dont complete this step, Google Drive and Torrent Search from Your `SITE`
 
 4. Press `Add Buildpacks` and Paste the Link `https://github.com/jontewks/puppeteer-heroku-buildpack.git` as Buildpacks URL. Press `Save Changes`
 
-5. Go to the `Deploy` Option. And Link Your Repository. For this, Go to `Deployment method` and Select Github. Below You will find a Option To search Your Repository. Find it And Press Connect.
+5. Go to the `Deploy` Section from the TOP. And Link Your Repository. For this, Go to `Deployment method` and Select Github. Below You will find a Option To search Your Repository. Find it And Press Connect.
 
 6.Scroll And You will find `Manual deploy`. Make Sure You are choosed `master` in `Choose a branch to deploy` section. Just Press Deploy.
 
