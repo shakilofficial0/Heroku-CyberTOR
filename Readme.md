@@ -1,6 +1,7 @@
 # Heroku-CyberTOR
 
 ![GitHub](https://img.shields.io/github/license/shakilofficial0/Heroku-CyberTOR?label=license)
+![GitHub](https://img.shields.io/badge/Version-Beta-green)
 
 
 ### Quick Launch:
