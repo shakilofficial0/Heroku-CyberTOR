@@ -1,6 +1,6 @@
 # Heroku-CyberTOR
 ![Version](https://img.shields.io/github/tag/gnuradio/gnuradio.svg)
-![GitHub](https://img.shields.io/github/license/shakilofficial0/Heroku-CyberTOR?label=%3Cimg%20alt%3D%22GitHub%22%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fgithub%2Flicense%2Fshakilofficial0%2FHeroku-CyberTOR%22%3E)
+https://img.shields.io/github/license/shakilofficial0/Heroku-CyberTOR?label=license
 
 
 ### Quick Launch:
