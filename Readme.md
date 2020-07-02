@@ -1,4 +1,7 @@
 # Heroku-CyberTOR
+![Version](https://img.shields.io/github/tag/gnuradio/gnuradio.svg)
+[![AUR](https://img.shields.io/github/license/gnuradio/gnuradio)](https://github.com/gnuradio/gnuradio/blob/master/COPYING)
+[![Build Status][travis-image]][travis-url] [![Coverage][coveralls-image]][coveralls-url] [![Dependencies][dependencies-image]]
 
 ### Quick Launch:
 
