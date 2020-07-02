@@ -1,12 +1,12 @@
-# Torrent all-in-one bot
+# Heroku-CyberTOR
 
-Lorem ipsum i am too lazy figure what it does yourself
-
-You might be lazy too so here ya go:
+### Quick Launch:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shakilofficial0/Heroku-CyberTOR)
 
-Please dont start a test torrent download on my website it works you dont need to just wastes my drive space. Be carefuk when adding torrents to my deployment as it is deployed everytime i commit code here so your downloads may be interrupted.
+> Username: alpha
+> Password: alpha 
+Make sure There is no (space) at the start of User/Pass.
 
 ## TODO after deploy
 
