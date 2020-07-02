@@ -3,7 +3,6 @@
   "description": "Like A Boss UehToR",
   "repository": "https://github.com/shakilofficial0/Heroku-CyberTOR",
   "website": "https://shakilofficial0.github.io/",
-  "logo": "https://shakilofficial0.github.io/img/home-avatar.jpg",
   "keywords": ["node", "express", "bot", "torrent", "automation"],
   "env": {
 		"AUTH_CODE": {
