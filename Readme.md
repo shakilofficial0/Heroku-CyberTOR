@@ -12,6 +12,25 @@ Make sure There is no (space) at the start of User/Pass.
 
 ## TODO after deploy
 
+### *Compulsory*
+
+If You dont complete this step, Google Drive and Torrent Search from Your `SITE` will not work.
+
+1. Fork The `Repository`
+
+2. Go to Settings of Your Created App.
+
+3. Scroll and You will find `Buildpacks`
+
+4. Press `Add Buildpacks` and Paste the Link `https://github.com/jontewks/puppeteer-heroku-buildpack.git` as Buildpacks URL. Press `Save Changes`
+
+5. Go to the `Deploy` Option. And Link Your Repository. For this, Go to `Deployment method` and Select Github. Below You will find a Option To search Your Repository. Find it And Press Connect.
+
+6.Scroll And You will find `Manual deploy`. Make Sure You are choosed `master` in `Choose a branch to deploy` section. Just Press Deploy.
+
+It will take About 2-5min to Complete the Deployment.   
+
+
 ### To disable website
 
 If you only want telegram bot to be workinh set value of DISABLE_WEB env var to true.
