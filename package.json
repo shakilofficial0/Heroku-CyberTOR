@@ -34,7 +34,7 @@
     "arrowParens": "avoid"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.12.0",
     "body-parser": "^1.19.0",
     "compression": "^1.7.4",
     "diskusage": "^1.1.3",
