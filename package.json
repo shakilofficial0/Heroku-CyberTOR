@@ -34,20 +34,26 @@
     "arrowParens": "avoid"
   },
   "dependencies": {
-    "axios": "^0.21.1",
-    "body-parser": "^1.19.0",
-    "compression": "^1.7.4",
-    "diskusage": "^1.1.3",
-    "express": "^4.21.2",
+    "axios": "^1.13.2",
+    "body-parser": "^2.2.1",
+    "compression": "^1.8.1",
+    "diskusage": "^1.2.0",
+    "express": "^5.1.0",
     "googleapis": "166",
-    "http-proxy": "^1.18.0",
-    "node-telegram-bot-api": "^0.40.0",
-    "nodemon": "^2.0.2",
-    "prop-types": "^15.7.2",
-    "puppeteer": "^2.0.0",
+    "http-proxy": "^1.18.1",
+    "node-telegram-bot-api": "^0.66.0",
+    "nodemon": "^3.1.11",
+    "prop-types": "^15.8.1",
+    "puppeteer": "^24.31.0",
     "readline": "^1.3.0",
     "serve-index": "^1.9.1",
-    "webtorrent": "^0.107.17",
-    "zip-a-folder": "^0.0.12"
+    "webtorrent": "^2.8.4",
+    "zip-a-folder": "^4.0.4"
+  },
+  "overrides": {
+    "ip": "2.0.1",
+    "tough-cookie": "4.1.4",
+    "form-data": "4.0.4",
+    "request": "npm:@cypress/request@3.0.6"
   }
 }

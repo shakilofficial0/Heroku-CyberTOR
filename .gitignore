@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+web/node_modules/
+
+# Logs
+logs.txt
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+web/build/
+web/.next/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Downloads directory (keep folder structure but ignore contents)
+downloads/*
+!downloads/sample.txt
+
+# Temporary files
+*.tmp
+.cache/
+
+# Google Drive credentials (if stored locally)
+credentials.json
+token.json
+
+# Puppeteer
+.local-chromium/
