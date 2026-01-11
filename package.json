@@ -38,7 +38,7 @@
     "body-parser": "^2.2.1",
     "compression": "^1.8.1",
     "diskusage": "^1.2.0",
-    "express": "^5.1.0",
+    "express": "^5.2.0",
     "googleapis": "166",
     "http-proxy": "^1.18.1",
     "node-telegram-bot-api": "^0.66.0",
